@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">Movide IDE</h2>
-  <h2 align="center'>Full fork from https://github.com/solide-project/movide for compatibility with movement aptos</h2
+  <h1 align="center'>Full fork from https://github.com/solide-project/movide for compatibility with movement aptos</h1>
   <p align="center"><b>Lightweight Move Program IDE</b></p>
   <p align="center">Comprehensive intuitive integrated development environment tailored for load smart contract from various blockchain and repositories</p>
 </p>
